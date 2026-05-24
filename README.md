@@ -121,7 +121,3 @@ classify_stress_level("I am overwhelmed with work and deadlines.")
 - Tune hyperparameters for better performance
 - Use a larger and more diverse dataset
 - Add visualizations for class distribution and evaluation results
-
-## License
-
-Add your preferred license here.
